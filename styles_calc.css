@@ -90,8 +90,8 @@ input
 @media only screen and (max-width:420px)
 {
     .buttons{
-        width: 50px;
-        height: 50px;
+        width: 40px;
+        height: 40px;
         margin: 0;
     }
 }
