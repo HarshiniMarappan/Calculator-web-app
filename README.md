@@ -5,5 +5,11 @@ HTML , CSS, JavaScript
 ## To try it out 
 <a href="https://harshinimarappan.github.io/Web-based-Calculator/">Click here</a>
 ## Preview
+-Desktop view
+![Screenshot (2255)](https://user-images.githubusercontent.com/87597527/132094941-7d587fb0-dfc9-44d6-babc-5cbf219f27f9.png) <br>
+-Mobile view
+
+
+
 
 
