@@ -3,6 +3,7 @@ A simple <b><i>Web based Calculator</i></b> built during <a href="https://develo
 ## Tech used
 HTML , CSS, JavaScript
 ## To try it out 
-<a href="#">Click here</a>
+<a href="https://harshinimarappan.github.io/Web-based-Calculator/">Click here</a>
 ## Preview
+
 
