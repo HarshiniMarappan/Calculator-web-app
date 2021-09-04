@@ -5,4 +5,4 @@ HTML , CSS, JavaScript
 ## To try it out 
 <a href="#">Click here</a>
 ## Preview
-<img src="C:\Users\harsh\Pictures\Screenshots"></img>
+
