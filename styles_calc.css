@@ -93,6 +93,7 @@ input
     #calc_frame
     {
         width: 100%;
+        background:black;
     }
     
     h1
