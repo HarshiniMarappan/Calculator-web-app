@@ -87,13 +87,34 @@ input
     color: black;
 }
 
-@media screen and (min-width: 320px) {
-    html {
-      font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+@media screen and (min-width: 320px) 
+{
+    html 
+    {
+      font-size: calc(16px + 6 * ((100vw - 320px) / (1000-320)));
     }
-  }
-  @media screen and (min-width: 1000px) {
-    html {
-      font-size: 22px;
+
+    /* calc-body size */
+    /* will adapt on its own */
+
+    /* calc_screen size */
+    
+    #screen
+    {
+    height: 70px ;
+    width: 240px;
+    font-size: 20px;
     }
+
+    /* calc button size */
+    
+    #buttons .num,#buttons .scr,#buttons .op
+    {
+    width: 50px;
+    height: 50px;
+    font-size: 10px;
+    border-radius: 5px; 
+    }
+
   }
+  
