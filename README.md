@@ -3,7 +3,7 @@ A simple and responsive <b><i>Calculator</i></b> built during <a href="https://d
 ## Tech used
 HTML , CSS, JavaScript
 ## To try it out 
-<a href="#">Click here</a>
+<a href="https://harshinimarappan.github.io/Online-Calculator/">Click here</a>
 ## Preview
 <b>Desktop view<b>
 <b>Mobile view<b>
