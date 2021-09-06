@@ -8,7 +8,6 @@
 
 h1
 {
-    /* font-size: 30pt; */
     padding: 35px;
 }
 
@@ -35,7 +34,6 @@ h1
     width: 300px;
     border-radius: 10%;
     margin-bottom: 10px;
-    /* font-size: 30px; */
 }
 
 input
@@ -49,12 +47,11 @@ input
 #buttons .num,#buttons .scr,#buttons .op{
     width: 70px;
     height: 70px;
-    /* font-size: 20px; */
     border-radius: 10px;
     cursor: pointer; 
 }
 
-/*for delete an dclear buttons*/
+/*for delete and clear buttons*/
 .scr
 {
     background-color: rgb(247, 48, 48);
@@ -114,6 +111,11 @@ input
     html
     {
         font-size:25px;
-    }    
+    }
+
+	#screen
+	{
+	font-size: 30px; 
+	}    
 }
   
