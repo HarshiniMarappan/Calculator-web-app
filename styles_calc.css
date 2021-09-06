@@ -99,5 +99,21 @@ input
         width: 250px;
     }
 
+    #buttons .num,#buttons .scr,#buttons .op
+    {
+        width: 60px;
+        height: 60px;
+        font-size: 15px;
+    }
+
+
+}
+
+@media screen and (min-width: 1000px)
+{
+    html
+    {
+        font-size:22px;
+    }    
 }
   
