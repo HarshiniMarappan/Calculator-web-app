@@ -94,15 +94,12 @@ input
       font-size: calc(16px + 6 * ((100vw - 320px) / (1000-320)));
     }
 
-    /* calc-body size */
-    /* will adapt on its own */
-
     /* calc_screen size */
     
     #screen
     {
     height: 70px ;
-    width: 240px;
+    width: 220px;
     font-size: 20px;
     }
 
